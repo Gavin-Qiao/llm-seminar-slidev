@@ -619,7 +619,7 @@ Choosing the right Large Language Model (LLM) feels complex because... well, it 
 layout: figure
 figureCaption: Artificial Analysis Intelligence Index
 figureFootnoteNumber: 1
-figureUrl: "assets/artificial_analysis.png"
+figureUrl: https://raw.githubusercontent.com/Gavin-Qiao/llm-seminar-slidev/main/assets/artificial_analysis.png
 title: Benchmarks
 level: 3
 hideInToc: true
@@ -635,7 +635,7 @@ hideInToc: true
 layout: figure
 figureCaption: LiveBench - A Challenging, Contamination-Free LLM Benchmark
 figureFootnoteNumber: 1
-figureUrl: "assets/livebench.png"
+figureUrl: https://raw.githubusercontent.com/Gavin-Qiao/llm-seminar-slidev/main/assets/livebench.png
 title: LiveBench
 level: 3
 ---
@@ -650,7 +650,7 @@ level: 3
 layout: figure
 figureCaption: Chatbot Arena
 figureFootnoteNumber: 1
-figureUrl: "assets/chatbot_arena.png"
+figureUrl: https://raw.githubusercontent.com/Gavin-Qiao/llm-seminar-slidev/main/assets/chatbot_arena.png
 title: Chatbot Arena
 level: 3
 ---
@@ -956,6 +956,7 @@ level: 1
 <div v-click="1" class="mt-4">
 
 **The Tip:**
+
 <p class="text-lg">Do NOT be solution-oriented from the very start.</p>
 </div>
 
@@ -1023,7 +1024,7 @@ Your ability to **evaluate** an LLM's output is often more crucial (and initiall
 layout: figure
 figureCaption:
 figureFootnoteNumber: 1
-figureUrl: "assets/augmentation_vs_automation.png"
+figureUrl: https://raw.githubusercontent.com/Gavin-Qiao/llm-seminar-slidev/main/assets/augmentation_vs_automation.png
 title: Augmentation or Automation?
 level: 3
 ---
