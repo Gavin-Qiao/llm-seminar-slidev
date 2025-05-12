@@ -1171,3 +1171,10 @@ hideOnToc: true
   <p class="text-sm opacity-75">{{ new Date().toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' }) }}</p>
 </div>
 
+<div class="mt-8 text-md">
+  <p>Slides available at:</p>
+  <a href="https://gavin-qiao.github.io/llm-seminar-slidev/" target="_blank" class="text-sky-600 hover:text-sky-700 transition-colors">
+    gavin-qiao.github.io/llm-seminar-slidev/
+  </a>
+</div>
+
